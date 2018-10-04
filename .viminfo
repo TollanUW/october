@@ -11,10 +11,10 @@
 # hlsearch on (H) or off (h):
 ~h
 # Command Line History (newest to oldest):
-:q
-|2,0,1536798026,,"q"
 :wq
-|2,0,1536792524,,"wq"
+|2,0,1538615972,,"wq"
+:q
+|2,0,1538615796,,"q"
 
 # Search String History (newest to oldest):
 
@@ -27,134 +27,249 @@
 # Registers:
 
 # File marks:
-'0  2  1  ~/private/cs400/Hello.java
-|4,48,2,1,1536798026,"~/private/cs400/Hello.java"
-'1  1  0  ~/private/cs400/output.txt
-|4,49,1,0,1536792808,"~/private/cs400/output.txt"
-'2  5  0  ~/private/cs400/hello.java
-|4,50,5,0,1536792643,"~/private/cs400/hello.java"
-'3  2  18  ~/private/cs400/hello.java
-|4,51,2,18,1536792524,"~/private/cs400/hello.java"
-'4  2  18  ~/private/cs400/hello.java
-|4,52,2,18,1536792524,"~/private/cs400/hello.java"
-'5  5  0  ~/private/hello
-|4,53,5,0,1536792198,"~/private/hello"
+'0  2  39  ~/file2.txt
+|4,48,2,39,1538615972,"~/file2.txt"
+'1  1  30  ~/file2.txt
+|4,49,1,30,1538615896,"~/file2.txt"
+'2  1  30  ~/file2.txt
+|4,50,1,30,1538615896,"~/file2.txt"
+'3  1  17  ~/file1.txt
+|4,51,1,17,1538615856,"~/file1.txt"
+'4  1  0  ~/file1.txt
+|4,52,1,0,1538615796,"~/file1.txt"
+'5  1  0  ~/file3.txt
+|4,53,1,0,1538615569,"~/file3.txt"
+'6  2  1  ~/private/cs400/Hello.java
+|4,54,2,1,1536798026,"~/private/cs400/Hello.java"
+'7  1  0  ~/private/cs400/output.txt
+|4,55,1,0,1536792808,"~/private/cs400/output.txt"
+'8  5  0  ~/private/cs400/hello.java
+|4,56,5,0,1536792643,"~/private/cs400/hello.java"
+'9  2  18  ~/private/cs400/hello.java
+|4,57,2,18,1536792524,"~/private/cs400/hello.java"
 
 # Jumplist (newest first):
+-'  2  39  ~/file2.txt
+|4,39,2,39,1538615972,"~/file2.txt"
+-'  1  30  ~/file2.txt
+|4,39,1,30,1538615918,"~/file2.txt"
+-'  1  30  ~/file2.txt
+|4,39,1,30,1538615896,"~/file2.txt"
+-'  1  17  ~/file1.txt
+|4,39,1,17,1538615856,"~/file1.txt"
+-'  1  17  ~/file1.txt
+|4,39,1,17,1538615856,"~/file1.txt"
+-'  1  17  ~/file1.txt
+|4,39,1,17,1538615856,"~/file1.txt"
+-'  1  17  ~/file1.txt
+|4,39,1,17,1538615856,"~/file1.txt"
+-'  1  0  ~/file1.txt
+|4,39,1,0,1538615796,"~/file1.txt"
+-'  1  0  ~/file1.txt
+|4,39,1,0,1538615796,"~/file1.txt"
+-'  1  0  ~/file1.txt
+|4,39,1,0,1538615796,"~/file1.txt"
+-'  1  0  ~/file1.txt
+|4,39,1,0,1538615796,"~/file1.txt"
+-'  1  0  ~/file3.txt
+|4,39,1,0,1538615569,"~/file3.txt"
+-'  1  0  ~/file3.txt
+|4,39,1,0,1538615569,"~/file3.txt"
+-'  1  0  ~/file3.txt
+|4,39,1,0,1538615569,"~/file3.txt"
+-'  1  0  ~/file3.txt
+|4,39,1,0,1538615569,"~/file3.txt"
+-'  1  0  ~/file3.txt
+|4,39,1,0,1538615569,"~/file3.txt"
+-'  1  0  ~/file3.txt
+|4,39,1,0,1538615569,"~/file3.txt"
+-'  1  0  ~/file3.txt
+|4,39,1,0,1538615569,"~/file3.txt"
+-'  1  0  ~/file3.txt
+|4,39,1,0,1538615569,"~/file3.txt"
+-'  1  0  ~/file3.txt
+|4,39,1,0,1538615569,"~/file3.txt"
+-'  1  0  ~/file3.txt
+|4,39,1,0,1538615569,"~/file3.txt"
+-'  1  0  ~/file3.txt
+|4,39,1,0,1538615569,"~/file3.txt"
+-'  1  0  ~/file3.txt
+|4,39,1,0,1538615569,"~/file3.txt"
+-'  1  0  ~/file3.txt
+|4,39,1,0,1538615569,"~/file3.txt"
+-'  1  0  ~/file3.txt
+|4,39,1,0,1538615569,"~/file3.txt"
+-'  1  0  ~/file3.txt
+|4,39,1,0,1538615569,"~/file3.txt"
+-'  1  0  ~/file3.txt
+|4,39,1,0,1538615569,"~/file3.txt"
 -'  2  1  ~/private/cs400/Hello.java
 |4,39,2,1,1536798026,"~/private/cs400/Hello.java"
+-'  2  1  ~/private/cs400/Hello.java
+|4,39,2,1,1536798026,"~/private/cs400/Hello.java"
+-'  2  1  ~/private/cs400/Hello.java
+|4,39,2,1,1536798026,"~/private/cs400/Hello.java"
+-'  2  1  ~/private/cs400/Hello.java
+|4,39,2,1,1536798026,"~/private/cs400/Hello.java"
+-'  2  1  ~/private/cs400/Hello.java
+|4,39,2,1,1536798026,"~/private/cs400/Hello.java"
+-'  2  1  ~/private/cs400/Hello.java
+|4,39,2,1,1536798026,"~/private/cs400/Hello.java"
+-'  2  1  ~/private/cs400/Hello.java
+|4,39,2,1,1536798026,"~/private/cs400/Hello.java"
+-'  2  1  ~/private/cs400/Hello.java
+|4,39,2,1,1536798026,"~/private/cs400/Hello.java"
+-'  2  1  ~/private/cs400/Hello.java
+|4,39,2,1,1536798026,"~/private/cs400/Hello.java"
+-'  2  1  ~/private/cs400/Hello.java
+|4,39,2,1,1536798026,"~/private/cs400/Hello.java"
+-'  2  1  ~/private/cs400/Hello.java
+|4,39,2,1,1536798026,"~/private/cs400/Hello.java"
+-'  2  1  ~/private/cs400/Hello.java
+|4,39,2,1,1536798026,"~/private/cs400/Hello.java"
+-'  2  1  ~/private/cs400/Hello.java
+|4,39,2,1,1536798026,"~/private/cs400/Hello.java"
+-'  2  1  ~/private/cs400/Hello.java
+|4,39,2,1,1536798026,"~/private/cs400/Hello.java"
+-'  2  1  ~/private/cs400/Hello.java
+|4,39,2,1,1536798026,"~/private/cs400/Hello.java"
+-'  2  1  ~/private/cs400/Hello.java
+|4,39,2,1,1536798026,"~/private/cs400/Hello.java"
+-'  2  1  ~/private/cs400/Hello.java
+|4,39,2,1,1536798026,"~/private/cs400/Hello.java"
+-'  2  1  ~/private/cs400/Hello.java
+|4,39,2,1,1536798026,"~/private/cs400/Hello.java"
+-'  2  1  ~/private/cs400/Hello.java
+|4,39,2,1,1536798026,"~/private/cs400/Hello.java"
+-'  2  1  ~/private/cs400/Hello.java
+|4,39,2,1,1536798026,"~/private/cs400/Hello.java"
+-'  2  1  ~/private/cs400/Hello.java
+|4,39,2,1,1536798026,"~/private/cs400/Hello.java"
+-'  2  1  ~/private/cs400/Hello.java
+|4,39,2,1,1536798026,"~/private/cs400/Hello.java"
+-'  2  1  ~/private/cs400/Hello.java
+|4,39,2,1,1536798026,"~/private/cs400/Hello.java"
+-'  2  1  ~/private/cs400/Hello.java
+|4,39,2,1,1536798026,"~/private/cs400/Hello.java"
+-'  2  1  ~/private/cs400/Hello.java
+|4,39,2,1,1536798026,"~/private/cs400/Hello.java"
+-'  2  1  ~/private/cs400/Hello.java
+|4,39,2,1,1536798026,"~/private/cs400/Hello.java"
+-'  2  1  ~/private/cs400/Hello.java
+|4,39,2,1,1536798026,"~/private/cs400/Hello.java"
+-'  2  1  ~/private/cs400/Hello.java
+|4,39,2,1,1536798026,"~/private/cs400/Hello.java"
+-'  2  1  ~/private/cs400/Hello.java
+|4,39,2,1,1536798026,"~/private/cs400/Hello.java"
+-'  2  1  ~/private/cs400/Hello.java
+|4,39,2,1,1536798026,"~/private/cs400/Hello.java"
+-'  2  1  ~/private/cs400/Hello.java
+|4,39,2,1,1536798026,"~/private/cs400/Hello.java"
+-'  2  1  ~/private/cs400/Hello.java
+|4,39,2,1,1536798026,"~/private/cs400/Hello.java"
+-'  1  0  ~/private/cs400/Hello.java
+|4,39,1,0,1536794329,"~/private/cs400/Hello.java"
+-'  1  0  ~/private/cs400/Hello.java
+|4,39,1,0,1536794329,"~/private/cs400/Hello.java"
+-'  1  0  ~/private/cs400/Hello.java
+|4,39,1,0,1536794329,"~/private/cs400/Hello.java"
+-'  1  0  ~/private/cs400/Hello.java
+|4,39,1,0,1536794329,"~/private/cs400/Hello.java"
+-'  1  0  ~/private/cs400/Hello.java
+|4,39,1,0,1536794329,"~/private/cs400/Hello.java"
+-'  1  0  ~/private/cs400/Hello.java
+|4,39,1,0,1536794329,"~/private/cs400/Hello.java"
+-'  1  0  ~/private/cs400/Hello.java
+|4,39,1,0,1536794329,"~/private/cs400/Hello.java"
+-'  1  0  ~/private/cs400/Hello.java
+|4,39,1,0,1536794329,"~/private/cs400/Hello.java"
+-'  1  0  ~/private/cs400/Hello.java
+|4,39,1,0,1536794329,"~/private/cs400/Hello.java"
+-'  1  0  ~/private/cs400/Hello.java
+|4,39,1,0,1536794329,"~/private/cs400/Hello.java"
+-'  1  0  ~/private/cs400/Hello.java
+|4,39,1,0,1536794329,"~/private/cs400/Hello.java"
+-'  1  0  ~/private/cs400/Hello.java
+|4,39,1,0,1536794329,"~/private/cs400/Hello.java"
+-'  1  0  ~/private/cs400/Hello.java
+|4,39,1,0,1536794329,"~/private/cs400/Hello.java"
+-'  1  0  ~/private/cs400/Hello.java
+|4,39,1,0,1536794329,"~/private/cs400/Hello.java"
+-'  1  0  ~/private/cs400/Hello.java
+|4,39,1,0,1536794329,"~/private/cs400/Hello.java"
+-'  1  0  ~/private/cs400/Hello.java
+|4,39,1,0,1536794329,"~/private/cs400/Hello.java"
+-'  1  0  ~/private/cs400/Hello.java
+|4,39,1,0,1536794329,"~/private/cs400/Hello.java"
+-'  1  0  ~/private/cs400/Hello.java
+|4,39,1,0,1536794329,"~/private/cs400/Hello.java"
+-'  1  0  ~/private/cs400/Hello.java
+|4,39,1,0,1536794329,"~/private/cs400/Hello.java"
+-'  1  0  ~/private/cs400/Hello.java
+|4,39,1,0,1536794329,"~/private/cs400/Hello.java"
+-'  1  0  ~/private/cs400/Hello.java
+|4,39,1,0,1536794329,"~/private/cs400/Hello.java"
+-'  1  0  ~/private/cs400/Hello.java
+|4,39,1,0,1536794329,"~/private/cs400/Hello.java"
+-'  1  0  ~/private/cs400/Hello.java
+|4,39,1,0,1536794329,"~/private/cs400/Hello.java"
+-'  1  0  ~/private/cs400/Hello.java
+|4,39,1,0,1536794329,"~/private/cs400/Hello.java"
+-'  1  0  ~/private/cs400/Hello.java
+|4,39,1,0,1536794329,"~/private/cs400/Hello.java"
+-'  1  0  ~/private/cs400/Hello.java
+|4,39,1,0,1536794329,"~/private/cs400/Hello.java"
+-'  1  0  ~/private/cs400/Hello.java
+|4,39,1,0,1536794329,"~/private/cs400/Hello.java"
+-'  1  0  ~/private/cs400/Hello.java
+|4,39,1,0,1536794329,"~/private/cs400/Hello.java"
+-'  1  0  ~/private/cs400/Hello.java
+|4,39,1,0,1536794329,"~/private/cs400/Hello.java"
+-'  1  0  ~/private/cs400/Hello.java
+|4,39,1,0,1536794329,"~/private/cs400/Hello.java"
+-'  1  0  ~/private/cs400/Hello.java
+|4,39,1,0,1536794329,"~/private/cs400/Hello.java"
 -'  1  0  ~/private/cs400/Hello.java
 |4,39,1,0,1536794329,"~/private/cs400/Hello.java"
 -'  1  0  ~/private/cs400/output.txt
 |4,39,1,0,1536792808,"~/private/cs400/output.txt"
 -'  1  0  ~/private/cs400/output.txt
 |4,39,1,0,1536792808,"~/private/cs400/output.txt"
--'  5  0  ~/private/cs400/hello.java
-|4,39,5,0,1536792643,"~/private/cs400/hello.java"
--'  5  0  ~/private/cs400/hello.java
-|4,39,5,0,1536792643,"~/private/cs400/hello.java"
--'  5  0  ~/private/cs400/hello.java
-|4,39,5,0,1536792643,"~/private/cs400/hello.java"
--'  5  0  ~/private/cs400/hello.java
-|4,39,5,0,1536792643,"~/private/cs400/hello.java"
--'  2  18  ~/private/cs400/hello.java
-|4,39,2,18,1536792527,"~/private/cs400/hello.java"
--'  2  18  ~/private/cs400/hello.java
-|4,39,2,18,1536792527,"~/private/cs400/hello.java"
--'  2  18  ~/private/cs400/hello.java
-|4,39,2,18,1536792527,"~/private/cs400/hello.java"
--'  2  18  ~/private/cs400/hello.java
-|4,39,2,18,1536792527,"~/private/cs400/hello.java"
--'  2  18  ~/private/cs400/hello.java
-|4,39,2,18,1536792524,"~/private/cs400/hello.java"
--'  2  18  ~/private/cs400/hello.java
-|4,39,2,18,1536792524,"~/private/cs400/hello.java"
--'  2  18  ~/private/cs400/hello.java
-|4,39,2,18,1536792524,"~/private/cs400/hello.java"
--'  2  18  ~/private/cs400/hello.java
-|4,39,2,18,1536792524,"~/private/cs400/hello.java"
--'  1  0  ~/private/cs400/hello.java
-|4,39,1,0,1536792473,"~/private/cs400/hello.java"
--'  1  0  ~/private/cs400/hello.java
-|4,39,1,0,1536792473,"~/private/cs400/hello.java"
--'  1  0  ~/private/cs400/hello.java
-|4,39,1,0,1536792473,"~/private/cs400/hello.java"
--'  1  0  ~/private/cs400/hello.java
-|4,39,1,0,1536792473,"~/private/cs400/hello.java"
--'  1  0  ~/private/cs400/hello.java
-|4,39,1,0,1536792473,"~/private/cs400/hello.java"
--'  1  0  ~/private/cs400/hello.java
-|4,39,1,0,1536792473,"~/private/cs400/hello.java"
--'  1  0  ~/private/cs400/hello.java
-|4,39,1,0,1536792473,"~/private/cs400/hello.java"
--'  1  0  ~/private/cs400/hello.java
-|4,39,1,0,1536792473,"~/private/cs400/hello.java"
--'  5  0  ~/private/hello
-|4,39,5,0,1536792198,"~/private/hello"
--'  5  0  ~/private/hello
-|4,39,5,0,1536792198,"~/private/hello"
--'  5  0  ~/private/hello
-|4,39,5,0,1536792198,"~/private/hello"
--'  5  0  ~/private/hello
-|4,39,5,0,1536792198,"~/private/hello"
--'  5  0  ~/private/hello
-|4,39,5,0,1536792198,"~/private/hello"
--'  5  0  ~/private/hello
-|4,39,5,0,1536792198,"~/private/hello"
--'  5  0  ~/private/hello
-|4,39,5,0,1536792198,"~/private/hello"
--'  5  0  ~/private/hello
-|4,39,5,0,1536792198,"~/private/hello"
--'  5  0  ~/private/hello
-|4,39,5,0,1536792198,"~/private/hello"
--'  5  0  ~/private/hello
-|4,39,5,0,1536792198,"~/private/hello"
--'  5  0  ~/private/hello
-|4,39,5,0,1536792198,"~/private/hello"
--'  5  0  ~/private/hello
-|4,39,5,0,1536792198,"~/private/hello"
--'  5  0  ~/private/hello
-|4,39,5,0,1536792198,"~/private/hello"
--'  5  0  ~/private/hello
-|4,39,5,0,1536792198,"~/private/hello"
--'  5  0  ~/private/hello
-|4,39,5,0,1536792198,"~/private/hello"
--'  5  0  ~/private/hello
-|4,39,5,0,1536792198,"~/private/hello"
--'  1  0  ~/private/hello
-|4,39,1,0,1536792023,"~/private/hello"
--'  1  0  ~/private/hello
-|4,39,1,0,1536792023,"~/private/hello"
--'  1  0  ~/private/hello
-|4,39,1,0,1536792023,"~/private/hello"
--'  1  0  ~/private/hello
-|4,39,1,0,1536792023,"~/private/hello"
--'  1  0  ~/private/hello
-|4,39,1,0,1536792023,"~/private/hello"
--'  1  0  ~/private/hello
-|4,39,1,0,1536792023,"~/private/hello"
--'  1  0  ~/private/hello
-|4,39,1,0,1536792023,"~/private/hello"
--'  1  0  ~/private/hello
-|4,39,1,0,1536792023,"~/private/hello"
--'  1  0  ~/private/hello
-|4,39,1,0,1536792023,"~/private/hello"
--'  1  0  ~/private/hello
-|4,39,1,0,1536792023,"~/private/hello"
--'  1  0  ~/private/hello
-|4,39,1,0,1536792023,"~/private/hello"
--'  1  0  ~/private/hello
-|4,39,1,0,1536792023,"~/private/hello"
--'  1  0  ~/private/hello
-|4,39,1,0,1536792023,"~/private/hello"
--'  1  0  ~/private/hello
-|4,39,1,0,1536792023,"~/private/hello"
--'  1  0  ~/private/hello
-|4,39,1,0,1536792023,"~/private/hello"
--'  1  0  ~/private/hello
-|4,39,1,0,1536792023,"~/private/hello"
+-'  1  0  ~/private/cs400/output.txt
+|4,39,1,0,1536792808,"~/private/cs400/output.txt"
+-'  1  0  ~/private/cs400/output.txt
+|4,39,1,0,1536792808,"~/private/cs400/output.txt"
+-'  1  0  ~/private/cs400/output.txt
+|4,39,1,0,1536792808,"~/private/cs400/output.txt"
+-'  1  0  ~/private/cs400/output.txt
+|4,39,1,0,1536792808,"~/private/cs400/output.txt"
+-'  1  0  ~/private/cs400/output.txt
+|4,39,1,0,1536792808,"~/private/cs400/output.txt"
+-'  1  0  ~/private/cs400/output.txt
+|4,39,1,0,1536792808,"~/private/cs400/output.txt"
+-'  1  0  ~/private/cs400/output.txt
+|4,39,1,0,1536792808,"~/private/cs400/output.txt"
 
 # History of marks within files (newest to oldest):
+
+> ~/file2.txt
+	*	1538615966	0
+	"	2	39
+	^	2	40
+	.	2	39
+	+	1	31
+	+	2	39
+
+> ~/file1.txt
+	*	1538615844	0
+	"	1	17
+	^	1	18
+	.	1	18
+	+	1	18
+
+> ~/file3.txt
+	*	1538615566	0
+	"	1	0
 
 > ~/private/cs400/Hello.java
 	*	1536798024	0
